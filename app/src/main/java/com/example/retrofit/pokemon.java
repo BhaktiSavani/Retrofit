@@ -4,6 +4,7 @@ import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
 public class pokemon {
+    //111111
 
     @SerializedName("name")
     @Expose
